@@ -15,7 +15,7 @@ documentation on the Coptic SCRIPTORIUM web page.
 To use the models, download and unzip the TreeTagger. In the folder bin/ you will find
 the TreeTagger excutable, which requires one of the two parameter files to run. TreeTagger
 also expects an input file in a one-token-per-line format. For exaple, the input file input.txt could
-include the following tokens (in UTF-8!): 
+include the following tokens (in UTF-8! The ascii characters below are for illustration purposes only): 
 
 p
 noute
