@@ -1,7 +1,7 @@
 TreeTagger part-of-speech tagging models for Sahidic Coptic
 ===========================================================
 The part-of-speech tagging models are for use with the freely available TreeTagger 
-(http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/). There models are based
+(http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/). The models are based
 on the guidelines of the Coptic SCRIPTORIUM project, which closely follow Layton's (2004)
 grammar. The lexicon used by the tagger is based on a lexicon kindly provided by Prof.
 Tito Orlandi and the CMCL project (http://cmcl.let.uniroma1.it/). Please cite the CMCL
