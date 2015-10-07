@@ -1,6 +1,6 @@
 TreeTagger part-of-speech tagging models for Sahidic Coptic
 ===========================================================
-Version: 7 (includes POS tagging and lemmatization)
+Version: 1.8 (includes POS tagging and lemmatization)
 
 The part-of-speech tagging models are for use with the freely available TreeTagger 
 (http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/). The models are based
