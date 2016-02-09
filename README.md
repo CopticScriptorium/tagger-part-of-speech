@@ -1,13 +1,14 @@
 TreeTagger part-of-speech tagging models for Sahidic Coptic
 ===========================================================
-Version: 1.8 (includes POS tagging and lemmatization)
+Version: 1.9 (includes POS tagging and lemmatization, with DDGLC Greek lemma information)
 
 The part-of-speech tagging models are for use with the freely available TreeTagger 
 (http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/). The models are based
 on the guidelines of the Coptic SCRIPTORIUM project, which closely follow Layton's (2004)
 grammar. The lexicon used by the tagger is based on a lexicon kindly provided by Prof.
-Tito Orlandi and the CMCL project (http://cmcl.let.uniroma1.it/). Please cite the CMCL
-project whenever publishing research using the tagging models.
+Tito Orlandi and the CMCL project (http://cmcl.let.uniroma1.it/) and a lemma list provided by
+Prof. Tonio Sebastian Richter and the DDGLC project (http://research.uni-leipzig.de/ddglc/). 
+Please cite the CMCL and DDGLC projects whenever publishing research using the tagging models.
 
 There are two different models: one for the coarse grained tagset, with 22 tags, and one
 for the fine grained tagset, which distinguishes 44 tags (including individual tags for
