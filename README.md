@@ -1,6 +1,7 @@
 TreeTagger part-of-speech tagging models for Sahidic Coptic
 ===========================================================
-Version: 1.9 (includes POS tagging and lemmatization, with DDGLC Greek lemma information)
+Version: 1.10 (includes POS tagging and lemmatization, with DDGLC Greek lemma information)
+Model source file: coptic_fine10.par / coptic_coarse10.par
 
 The part-of-speech tagging models are for use with the freely available TreeTagger 
 (http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/). The models are based
